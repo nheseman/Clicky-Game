@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import Board from './components/board/board';
-import Header from './components/header/header';
+import Header from './components/title/title';
 
 import './App.css';
 
